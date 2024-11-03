@@ -78,7 +78,7 @@ curl http://localhost:3000/read
 ├── package.json
 ├── package-lock.json
 ├── .env
-└── .gitignore
+├── .gitignore
 ├── README.md
 └── LICENCE
 ```
